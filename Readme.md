@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Darya Rychagova](https://up.htmlacademy.ru/javascript/31/user/701169).
-* Наставник: `Неизвестно`.
+* Наставник: [Василий Петрухин] (https://htmlacademy.ru/profile/id1528403).
 
 ---
 
